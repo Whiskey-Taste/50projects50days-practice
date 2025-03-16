@@ -47,7 +47,7 @@ Clone this repository:
 
 克隆本仓库：
 ```sh
-git clone https://github.com/your-github-username/50projects50days-practice.git
+git clone https://github.com/Whiskey-Taste/50projects50days-practice.git
 ```
 Navigate to a specific project folder and open `index.html` in a browser to run the project.
 
