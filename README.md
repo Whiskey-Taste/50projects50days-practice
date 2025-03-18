@@ -5,6 +5,11 @@ This repository is a practice project based on [Brad Traversy's 50 Projects in 5
 
 本仓库是基于 [Brad Traversy 的 50 Projects in 50 Days](https://github.com/bradtraversy/50projects50days) 进行的代码练习。目的是通过手写代码的方式，提高前端开发技能，掌握 HTML、CSS 和 JavaScript 的实践经验。
 
+|  #  | Project                                                                                                                     | Live Demo                                                                         |
+| :-: | --------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
+| 01  | [Expanding Cards](https://github.com/Whiskey-Taste/50projects50days-practice/tree/main/01-Expanding_Cards)                             | [Live Demo](https://whiskey-taste.github.io/50projects50days-practice/01-Expanding_Cards/)               |
+| 02  | [Progress Steps](https://github.com/Whiskey-Taste/50projects50days-practice/tree/main/02-Progress_Steps/progress-steps)                               | [Live Demo](https://whiskey-taste.github.io/50projects50days-practice/02-Progress_Steps/)                |
+| 03  | [Rotating Navigation Animation](https://github.com/Whiskey-Taste/50projects50days-practice/tree/main/03-Rotating_Navigation_Animation)                       | [Live Demo](https://whiskey-taste.github.io/50projects50days-practice/03-Rotating_Navigation_Animation/) |
 ## 🎯 Objectives / 目标
 - **Enhance frontend development skills**: Implement 50 small projects to master common interactive effects and functionalities.
 - **Code optimization**: Improve code structure, readability, and maintainability beyond the original project.
