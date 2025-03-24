@@ -40,7 +40,7 @@ body {
     left: 0;
     height: 50px;
     width: 50px;
-    transition: width 0.3s ease;
+    transition: transform 0.3s ease;
 }
 
 .btn:focus,
@@ -48,10 +48,10 @@ body {
     outline: none;
 }
 
-.search:active .input {
+.search.active .input {
     width: 200px;
 }
 
-.search:active .btn {
+.search.active .btn {
     transform: translateX(198px);
 }
